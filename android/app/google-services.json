@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "32040171119",
+    "project_id": "photo-dairy-tutorial",
+    "storage_bucket": "photo-dairy-tutorial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32040171119:android:54ae5aac9930817e997f9a",
+        "android_client_info": {
+          "package_name": "com.example.photo_diary_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmWqO_-kN-7bICfOb75-xYJKltnSD3tiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
